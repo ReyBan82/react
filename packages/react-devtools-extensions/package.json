@@ -37,7 +37,7 @@
     "child-process-promise": "^2.2.1",
     "chrome-launch": "^1.1.4",
     "crx": "^5.0.0",
-    "css-loader": "^1.0.1",
+    "css-loader": "^5.0.0",
     "file-loader": "^6.1.0",
     "filesize": "^6.0.1",
     "find": "^0.3.0",
